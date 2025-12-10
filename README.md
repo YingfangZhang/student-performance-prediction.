@@ -1,6 +1,6 @@
 # student-performance-prediction.
 Author: Yvonne Zhang
-Course: Public Informatics – Final Project
+  Final Project
 
 This project evaluates whether demographic and socio-economic background variables can be used to predict student academic success. Logistic Regression and Random Forest models are implemented and compared.
 
